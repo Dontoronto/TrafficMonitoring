@@ -1,0 +1,12 @@
+{
+  "arch": "x86_64",
+  "build": "py39_0",
+  "build_number": 0,
+  "depends": [
+    "python 3.9*"
+  ],
+  "file_hash": "5819caab7f169aeaf6d63e5d8ffb80a016366368",
+  "name": "unknown",
+  "platform": "osx",
+  "version": "0.0"
+}
